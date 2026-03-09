@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/lewybundi/lewisbundi",
+
+  "owner": {
+    "username": "lewybundi",
+    "email": "mbubabundi29@email.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "lewisbundi",
+      "value": "lewybundi.github.io"
+    }
+  },
+
+  "proxied": false
+}
